@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="first draft">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong">
+      <change beforePath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +112,7 @@
       <workItem from="1695565479684" duration="1943000" />
       <workItem from="1695567813371" duration="93000" />
       <workItem from="1695567956714" duration="5230000" />
-      <workItem from="1695665264351" duration="5341000" />
+      <workItem from="1695665264351" duration="5706000" />
     </task>
     <task id="LOCAL-00001" summary="first draft">
       <option name="closed" value="true" />
@@ -123,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695568027605</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="BottleSong">
+      <option name="closed" value="true" />
+      <created>1695678237423</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1695678237423</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +138,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first draft" />
-    <option name="LAST_COMMIT_MESSAGE" value="first draft" />
+    <MESSAGE value="BottleSong" />
+    <option name="LAST_COMMIT_MESSAGE" value="BottleSong" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
