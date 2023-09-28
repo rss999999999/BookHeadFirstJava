@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong v4">
-      <change afterPath="$PROJECT_DIR$/src/Chapter1/PhraseOMatic.java" afterDir="false" />
+    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="PhraseOMatic v.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Chapter1/PhraseOMatic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/PhraseOMatic.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +130,7 @@
       <workItem from="1695665264351" duration="6613000" />
       <workItem from="1695751447119" duration="75000" />
       <workItem from="1695849569648" duration="947000" />
-      <workItem from="1695859643343" duration="2376000" />
+      <workItem from="1695859643343" duration="2785000" />
     </task>
     <task id="LOCAL-00001" summary="first draft">
       <option name="closed" value="true" />
@@ -171,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695918798340</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="PhraseOMatic v.0">
+      <option name="closed" value="true" />
+      <created>1695932436386</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1695932436386</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -183,7 +192,8 @@
     <MESSAGE value="BottleSong v2" />
     <MESSAGE value="BottleSong v3" />
     <MESSAGE value="BottleSong v4" />
-    <option name="LAST_COMMIT_MESSAGE" value="BottleSong v4" />
+    <MESSAGE value="PhraseOMatic v.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="PhraseOMatic v.0" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
