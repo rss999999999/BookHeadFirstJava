@@ -1,7 +1,7 @@
 /*There’s still one little flaw in our code.  It compiles and runs, but the output isn’t 100% perfect. See if you can spot the flaw and fix it.*/
 
 
-/*package Chapter1;
+package Chapter1;
 
 
 public class BottleSong {
@@ -28,7 +28,7 @@ public class BottleSong {
             } // end else
         } // end while loop
     } // end main method
-} // end class*/
+} // end class
 
 
 /*********************************************************************
@@ -64,6 +64,7 @@ public class BottleSong {
  ***********************************************************************/
 
 
+/*
 package Chapter1;
 public class BottleSong {
     public static void main(String[] args) {
@@ -95,4 +96,4 @@ public class BottleSong {
             } // end else
         } // end while loop
     } // end main method
-} // end class
+} // end class*/

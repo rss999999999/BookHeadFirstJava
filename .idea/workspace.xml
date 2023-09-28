@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong">
+    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong v2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -112,7 +113,9 @@
       <workItem from="1695565479684" duration="1943000" />
       <workItem from="1695567813371" duration="93000" />
       <workItem from="1695567956714" duration="5230000" />
-      <workItem from="1695665264351" duration="5706000" />
+      <workItem from="1695665264351" duration="6613000" />
+      <workItem from="1695751447119" duration="75000" />
+      <workItem from="1695849569648" duration="947000" />
     </task>
     <task id="LOCAL-00001" summary="first draft">
       <option name="closed" value="true" />
@@ -130,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695678237423</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="BottleSong v2">
+      <option name="closed" value="true" />
+      <created>1695678596153</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1695678596153</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +150,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first draft" />
     <MESSAGE value="BottleSong" />
-    <option name="LAST_COMMIT_MESSAGE" value="BottleSong" />
+    <MESSAGE value="BottleSong v2" />
+    <option name="LAST_COMMIT_MESSAGE" value="BottleSong v2" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -985,6 +997,30 @@
               <option name="usedFilesPaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/Chapter1/DooBee.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f4966e">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Chapter1/BottleSong.java" />
+                </list>
+              </option>
+              <option name="id" value="f4966e" />
+              <option name="initiateTms" value="1695680377376" />
+              <option name="request" value="o verify workplace do linkedin só está disponível nos planos pagos? " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="No momento, o recurso &quot;Verify Workplace&quot; do LinkedIn está disponível apenas para empresas que possuem uma parceria com o LinkedIn. Essa funcionalidade permite que as empresas verifiquem a autenticidade de seus funcionários e destaquem sua afiliação à empresa em seus perfis.&#10;&#10;No entanto, o acesso ao recurso &quot;Verify Workplace&quot; não está limitado aos planos pagos do LinkedIn. É uma funcionalidade específica que está disponível para empresas selecionadas que atendem aos critérios estabelecidos pelo LinkedIn.&#10;&#10;Se você é um funcionário de uma empresa que possui uma parceria com o LinkedIn, você pode entrar em contato com o departamento de recursos humanos ou administrativo de sua empresa para obter mais informações sobre como utilizar o recurso &quot;Verify Workplace&quot; em seu perfil do LinkedIn." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695680383273" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/Chapter1/BottleSong.java" />
                 </list>
               </option>
             </ChatHistoryModel>
