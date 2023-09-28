@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong v2">
+    <list default="true" id="731fb77a-469f-47cd-8432-170897abca5b" name="Changes" comment="BottleSong v3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chapter1/BottleSong.java" afterDir="false" />
     </list>
@@ -116,6 +116,7 @@
       <workItem from="1695665264351" duration="6613000" />
       <workItem from="1695751447119" duration="75000" />
       <workItem from="1695849569648" duration="947000" />
+      <workItem from="1695859643343" duration="1623000" />
     </task>
     <task id="LOCAL-00001" summary="first draft">
       <option name="closed" value="true" />
@@ -141,7 +142,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695678596153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="BottleSong v3">
+      <option name="closed" value="true" />
+      <created>1695859654189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695859654189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,7 +160,8 @@
     <MESSAGE value="first draft" />
     <MESSAGE value="BottleSong" />
     <MESSAGE value="BottleSong v2" />
-    <option name="LAST_COMMIT_MESSAGE" value="BottleSong v2" />
+    <MESSAGE value="BottleSong v3" />
+    <option name="LAST_COMMIT_MESSAGE" value="BottleSong v3" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
